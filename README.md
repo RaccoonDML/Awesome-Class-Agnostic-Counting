@@ -1,26 +1,20 @@
 # Awesome-Class-Agnostic-Counting
 
-paper list and performance comparison for **CAC** (Class Agnostic Counting)
+Paper list and performance comparison for **CAC** (Class Agnostic Counting)
+
+
 
 ## Papers (latest first)
 
-**[RCC]** Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision [paper](https://arxiv.org/pdf/2205.10203.pdf)
-
-**[RepRPN-Counter]** Exemplar Free Class Agnostic Counting [paper](https://arxiv.org/pdf/2205.14212.pdf) (Viresh)
-
-**[SAFECount]** Few-shot Object Counting with Similarity-Aware Feature Enhancement [paper](https://arxiv.org/pdf/2201.08959.pdf)
-
-**[LaoNet**] OBJECT COUNTING: YOU ONLY NEED TO LOOK AT ONE [paper](https://arxiv.org/pdf/2112.05993.pdf)
-
-**[BMNet]** Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting [paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Represent_Compare_and_Learn_A_Similarity-Aware_Framework_for_Class-Agnostic_Counting_CVPR_2022_paper.pdf) [code](https://github.com/flyinglynx/Bilinear-Matching-Network)
-
-**[VCN]** Vicinal Counting Networks [paper](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ranjan_Vicinal_Counting_Networks_CVPRW_2022_paper.pdf) ((Viresh))
-
-**[FamNet]** Learning To Count Everything [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ranjan_Learning_To_Count_Everything_CVPR_2021_paper.pdf) [code](https://github.com/cvlab-stonybrook/LearningToCountEverything) (Viresh)
-
-**[CFOCNet]** Class-agnostic Few-shot Object Counting [paper](https://openaccess.thecvf.com/content/WACV2021/papers/Yang_Class-Agnostic_Few-Shot_Object_Counting_WACV_2021_paper.pdf)
-
-**[GMN]** Class-Agnostic Counting [paper](https://arxiv.org/pdf/1811.00472.pdf)
+- **[RCC]** Learning to Count Anything: Reference-less Class-agnostic Counting with Weak Supervision [[paper]](https://arxiv.org/pdf/2205.10203.pdf)
+- **[RepRPN-Counter]** Exemplar Free Class Agnostic Counting [[paper]](https://arxiv.org/pdf/2205.14212.pdf) (Viresh)
+- **[SAFECount]** Few-shot Object Counting with Similarity-Aware Feature Enhancement [[paper]](https://arxiv.org/pdf/2201.08959.pdf)
+- **[LaoNet**] OBJECT COUNTING: YOU ONLY NEED TO LOOK AT ONE [[paper]](https://arxiv.org/pdf/2112.05993.pdf)
+- **[BMNet]** Represent, Compare, and Learn: A Similarity-Aware Framework for Class-Agnostic Counting [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Shi_Represent_Compare_and_Learn_A_Similarity-Aware_Framework_for_Class-Agnostic_Counting_CVPR_2022_paper.pdf) [[code]](https://github.com/flyinglynx/Bilinear-Matching-Network)
+- **[VCN]** Vicinal Counting Networks [[paper]](https://openaccess.thecvf.com/content/CVPR2022W/L3D-IVU/papers/Ranjan_Vicinal_Counting_Networks_CVPRW_2022_paper.pdf) (Viresh)
+- **[FamNet]** Learning To Count Everything [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Ranjan_Learning_To_Count_Everything_CVPR_2021_paper.pdf) [[code]](https://github.com/cvlab-stonybrook/LearningToCountEverything) (Viresh)
+- **[CFOCNet]** Class-agnostic Few-shot Object Counting [[paper]](https://openaccess.thecvf.com/content/WACV2021/papers/Yang_Class-Agnostic_Few-Shot_Object_Counting_WACV_2021_paper.pdf)
+- **[GMN]** Class-Agnostic Counting [[paper]](https://arxiv.org/pdf/1811.00472.pdf)
 
 
 
@@ -38,5 +32,4 @@ paper list and performance comparison for **CAC** (Class Agnostic Counting)
 | SAFECount      | arxiv22.01 | 相似度对比模块+特征增强模块（动态卷积）                      | 15.28/47.20 (11.60/45.05 cross-validation) | 14.32/85.54               | (13.03/48.77 cross-validation) |              |                                               |              |
 | RepRPN-Counter | arxiv22.05 | **Exemplar Free** 新的问题                                   |                                            |                           |                                |              | 29.24/98.11                                   | 26.66/129.11 |
 | RCC            | arxiv22.05 |                                                              |                                            |                           |                                |              | 17.49/58.81                                   | 17.12/104.53 |
-
 
