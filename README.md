@@ -1,3 +1,7 @@
+# Awesome Crowd Counting: note
+【腾讯文档】SICC-Survey   https://docs.qq.com/sheet/DT3BlU3RrUmpvSklo?tab=BB08J2
+Paper list is from https://github.com/gjy3035/Awesome-Crowd-Counting
+
 # Awesome-Class-Agnostic-Counting
 
 Paper list and performance comparison for **CAC** (Class Agnostic Counting)
