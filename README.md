@@ -1,6 +1,8 @@
 # Awesome Crowd Counting: note
 【腾讯文档】SICC-Survey   https://docs.qq.com/sheet/DT3BlU3RrUmpvSklo?tab=BB08J2
-Paper list is from https://github.com/gjy3035/Awesome-Crowd-Counting
+![image](https://user-images.githubusercontent.com/49635872/221356691-de7884b9-fe26-4ffb-be4f-5787f519f71a.png)
+
+(Paper list is from [awesome-crowd-counting](https://github.com/gjy3035/Awesome-Crowd-Counting))
 
 # Awesome-Class-Agnostic-Counting
 
